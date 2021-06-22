@@ -15,7 +15,7 @@ section#new {
 @media screen and (max-width: 480px) {
 	#new iframe {
 	width:100%;
-	max-width: initial;
+	max-width:initial;
 	}
 
 
