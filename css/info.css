@@ -14,8 +14,11 @@ section#new {
 
 @media screen and (max-width: 480px) {
 	#new iframe {
-	width:100%;
-	max-width:initial;
+		width:100%;
+		max-width:initial;
+	}
+	iframe.newinfo {
+		max-width: unset;
 	}
 
 
